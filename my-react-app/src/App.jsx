@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import Map, { Marker } from 'react-map-gl/mapbox';
+import Map from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './App.css';
 
