@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mapbox-gl": "^3.18.1"
+  }
+}
