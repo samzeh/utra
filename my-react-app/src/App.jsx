@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import Map from 'react-map-gl';
+import Map, { Marker, NavigationControl } from 'react-map-gl/mapbox';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './App.css';
 
@@ -9,9 +9,8 @@ import VenuePanel from './components/VenuePanel';
 import Legend from './components/Legend';
 import { olympicVenues, simulateDataUpdate, calculateRiskLevel } from './data/venues';
 
-// IMPORTANT: Replace with your actual Mapbox token
-const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || 'pk.eyJ1IjoiZXhhbXBsZSIsImEiOiJjbGV4YW1wbGUifQ.example';
-
+const mapboxAccessToken = import.meta.env.VITE_MAPBOX_TOKEN;
+console.log(mapboxAccessToken);
 function App() {
   const [selectedVenue, setSelectedVenue] = useState(null);
   const [venues, setVenues] = useState(olympicVenues);
@@ -75,13 +74,16 @@ function App() {
       
       <div className="map-container">
         <Map
+          mapboxAccessToken={mapboxAccessToken}
           {...viewState}
           onMove={(evt) => setViewState(evt.viewState)}
           mapStyle="mapbox://styles/mapbox/dark-v11"
-          mapboxAccessToken={MAPBOX_TOKEN}
           style={{ width: '100%', height: '100%' }}
-          attributionControl={false}
+          attributionControl={true}
+          onLoad={() => console.log('[Frostline] Map loaded successfully')}
+          onError={(e) => console.error('[Frostline] Map error:', e)}
         >
+          <NavigationControl position="top-right" showCompass showZoom />
           {venues.map((venue) => (
             <VenueMarker
               key={venue.id}

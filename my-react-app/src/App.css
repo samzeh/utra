@@ -86,13 +86,61 @@
   }
 }
 
-/* Map Container */
+/* Map Container - min-height: 0 needed for flex child to size correctly */
 .map-container {
   position: relative;
   flex: 1;
+  min-height: 0;
   width: 100%;
-  height: 100%;
   overflow: hidden;
+}
+
+/* Map Token Overlay - shown when Mapbox token is missing/invalid */
+.map-token-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(10, 14, 39, 0.85);
+  z-index: 50;
+}
+
+.map-token-message {
+  background: #1a1f3a;
+  border: 1px solid rgba(99, 102, 241, 0.5);
+  border-radius: 16px;
+  padding: 2rem;
+  max-width: 480px;
+  text-align: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.map-token-message h3 {
+  color: #ffffff;
+  margin: 0 0 1rem 0;
+  font-size: 1.25rem;
+}
+
+.map-token-message p {
+  color: #94a3b8;
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+}
+
+.map-token-message a {
+  color: #6366f1;
+  text-decoration: underline;
+}
+
+.map-token-message code {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
 }
 
 /* Venue Markers */
@@ -372,8 +420,8 @@
   }
 }
 
-/* Mapbox Attribution (optional styling) */
-.mapboxgl-ctrl-attrib {
+/* MapLibre Attribution (optional styling) */
+.maplibregl-ctrl-attrib {
   font-size: 0.7rem;
   background: rgba(0, 0, 0, 0.5) !important;
 }
