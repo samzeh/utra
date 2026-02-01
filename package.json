@@ -1,5 +1,11 @@
 {
+  "type": "module",
+  "scripts": {
+    "gemini:process": "node scripts/process-and-send-to-gemini.js"
+  },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.3",
     "mapbox-gl": "^3.18.1",
     "react-map-gl": "^8.1.0"
   }

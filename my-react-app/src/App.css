@@ -212,6 +212,8 @@
   right: 2rem;
   width: 400px;
   max-width: calc(100vw - 4rem);
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
   background: rgba(10, 14, 39, 0.95);
   backdrop-filter: blur(20px);
   border: 1px solid rgba(255, 255, 255, 0.15);
@@ -362,12 +364,73 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  flex-wrap: wrap;
   margin-bottom: 0.75rem;
   font-size: 0.85rem;
   font-weight: 600;
   color: #a5b4fc;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+}
+
+.ai-generate-btn {
+  margin-left: auto;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.75rem;
+  background: rgba(99, 102, 241, 0.3);
+  border: 1px solid rgba(99, 102, 241, 0.5);
+  color: #c7d2fe;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.ai-generate-btn:hover:not(:disabled) {
+  background: rgba(99, 102, 241, 0.5);
+}
+
+.ai-generate-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.ai-insight-local-note {
+  font-size: 0.8rem;
+  color: #94a3b8;
+  margin-bottom: 0.5rem;
+  font-style: italic;
+}
+
+.ai-insight-error {
+  color: #f87171;
+  font-size: 0.9rem;
+}
+
+.ai-key-drivers {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+}
+
+.key-driver {
+  margin-bottom: 0.4rem;
+}
+
+.key-driver-up .driver-impact { color: #10b981; }
+.key-driver-down .driver-impact { color: #ef4444; }
+
+.ai-actions {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.action { margin-bottom: 0.25rem; }
+.action-now { color: #f87171; }
+.action-soon { color: #fbbf24; }
+.action-monitor { color: #94a3b8; }
+
+.ai-stability-window {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #94a3b8;
 }
 
 .ai-icon {
@@ -379,6 +442,77 @@
   line-height: 1.6;
   color: #e0e7ff;
   margin: 0;
+}
+
+/* Temperature Data Section */
+.temp-data-section {
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.temp-data-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #10b981;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.temp-icon {
+  font-size: 1.1rem;
+}
+
+.temp-record-count {
+  font-weight: 400;
+  color: #6ee7b7;
+  text-transform: none;
+}
+
+.temp-monthly-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.temp-month-cell {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  padding: 0.4rem 0.5rem;
+  font-size: 0.75rem;
+}
+
+.temp-month-label {
+  display: block;
+  color: #94a3b8;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.temp-month-value {
+  color: #10b981;
+  font-weight: 700;
+  font-family: 'SF Mono', Monaco, monospace;
+}
+
+.temp-month-range {
+  display: block;
+  color: #64748b;
+  font-size: 0.65rem;
+}
+
+.temp-data-note {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin: 0;
+  font-style: italic;
 }
 
 /* Venue Footer */

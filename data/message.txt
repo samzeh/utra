@@ -1,0 +1,2792 @@
+<table>
+		<tbody><tr height="24" bgcolor="#ffffff">
+			<td>jan</td>
+			<td>feb</td>
+			<td>mar</td>
+			<td>apr</td>
+			<td>may</td>
+			<td>jun</td>
+			<td>jul</td>
+			<td>aug</td>
+			<td>sep</td>
+			<td>oct</td>
+			<td>nov</td>
+			<td>dec</td>
+			<td>year</td>
+		</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.4</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_38"><nobr>2.5</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_44"><nobr>21.5</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+			<td class="temp_38"><nobr>3.8</nobr></td>
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_41"><nobr>10.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_39"><nobr>6.7</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.7</nobr></td>
+			<td class="temp_37"><nobr>1.1</nobr></td>
+			<td class="temp_39"><nobr>5.3</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_45"><nobr>22.7</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_37"><nobr>-0.3</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_37"><nobr>0.3</nobr></td>
+			<td class="temp_39"><nobr>7.0</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_45"><nobr>23.1</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_39"><nobr>6.8</nobr></td>
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_39"><nobr>6.4</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_44"><nobr>21.7</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_39"><nobr>4.7</nobr></td>
+			<td class="temp_35"><nobr>-6.2</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.0</nobr></td>
+			<td class="temp_37"><nobr>1.2</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_43"><nobr>18.2</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_46"><nobr>27.0</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>21.4</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+			<td class="temp_38"><nobr>3.6</nobr></td>
+			<td class="temp_37"><nobr>0.5</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_39"><nobr>5.0</nobr></td>
+			<td class="temp_42"><nobr>15.9</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_46"><nobr>27.4</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_39"><nobr>7.2</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.1</nobr></td>
+			<td class="temp_37"><nobr>-0.1</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_42"><nobr>13.9</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_37"><nobr>0.4</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_38"><nobr>1.9</nobr></td>
+			<td class="temp_39"><nobr>6.9</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_43"><nobr>18.7</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+			<td class="temp_39"><nobr>4.5</nobr></td>
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_39"><nobr>6.9</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_45"><nobr>22.9</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>23.2</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_37"><nobr>0.8</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_37"><nobr>-1.2</nobr></td>
+			<td class="temp_38"><nobr>2.2</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_43"><nobr>18.6</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+			<td class="temp_38"><nobr>2.3</nobr></td>
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_41"><nobr>11.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_35"><nobr>-5.4</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_46"><nobr>26.8</nobr></td>
+			<td class="temp_45"><nobr>24.0</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_38"><nobr>3.1</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_41"><nobr>11.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_39"><nobr>4.5</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_46"><nobr>27.8</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_44"><nobr>21.5</nobr></td>
+			<td class="temp_41"><nobr>10.7</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_36"><nobr>-3.2</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.3</nobr></td>
+			<td class="temp_35"><nobr>-6.2</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_42"><nobr>14.4</nobr></td>
+			<td class="temp_44"><nobr>21.7</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_46"><nobr>28.0</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_39"><nobr>5.2</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.1</nobr></td>
+			<td class="temp_37"><nobr>-1.3</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_43"><nobr>16.9</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_39"><nobr>6.1</nobr></td>
+			<td class="temp_42"><nobr>15.6</nobr></td>
+			<td class="temp_44"><nobr>21.6</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_46"><nobr>27.0</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_39"><nobr>4.5</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.9</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_37"><nobr>1.3</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_43"><nobr>17.5</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_45"><nobr>22.5</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+			<td class="temp_38"><nobr>1.6</nobr></td>
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_34"><nobr>-8.1</nobr></td>
+			<td class="temp_36"><nobr>-4.4</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_43"><nobr>18.2</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_46"><nobr>27.3</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_43"><nobr>18.6</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_39"><nobr>4.7</nobr></td>
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_41"><nobr>11.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_43"><nobr>18.7</nobr></td>
+			<td class="temp_45"><nobr>24.0</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_38"><nobr>3.2</nobr></td>
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_37"><nobr>0.8</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_44"><nobr>21.6</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_38"><nobr>3.8</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_39"><nobr>5.2</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_38"><nobr>2.9</nobr></td>
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_36"><nobr>-2.6</nobr></td>
+			<td class="temp_39"><nobr>6.5</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_43"><nobr>19.1</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.2</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_38"><nobr>3.3</nobr></td>
+			<td class="temp_37"><nobr>-1.3</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.4</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_42"><nobr>15.0</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_39"><nobr>4.9</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.4</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_39"><nobr>4.7</nobr></td>
+			<td class="temp_42"><nobr>15.9</nobr></td>
+			<td class="temp_43"><nobr>18.1</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_38"><nobr>3.5</nobr></td>
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.3</nobr></td>
+			<td class="temp_38"><nobr>2.2</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.3</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_43"><nobr>17.0</nobr></td>
+			<td class="temp_45"><nobr>22.6</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_46"><nobr>28.0</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_43"><nobr>17.1</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.9</nobr></td>
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_43"><nobr>18.3</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>28.1</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+			<td class="temp_38"><nobr>2.1</nobr></td>
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-7.2</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_40"><nobr>8.1</nobr></td>
+			<td class="temp_42"><nobr>14.2</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_35"><nobr>-4.8</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_38"><nobr>3.3</nobr></td>
+			<td class="temp_41"><nobr>11.0</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_41"><nobr>11.0</nobr></td>
+			<td class="temp_39"><nobr>5.1</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.8</nobr></td>
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_39"><nobr>5.9</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_38"><nobr>3.1</nobr></td>
+			<td class="temp_36"><nobr>-3.8</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.3</nobr></td>
+			<td class="temp_36"><nobr>-4.0</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_45"><nobr>24.0</nobr></td>
+			<td class="temp_46"><nobr>27.7</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_38"><nobr>4.2</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_42"><nobr>15.5</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_38"><nobr>3.1</nobr></td>
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.6</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_39"><nobr>4.7</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_43"><nobr>17.8</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_38"><nobr>1.6</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_38"><nobr>2.9</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_45"><nobr>23.1</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_43"><nobr>19.1</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_38"><nobr>2.2</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.5</nobr></td>
+			<td class="temp_37"><nobr>-0.3</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+			<td class="temp_44"><nobr>22.4</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_38"><nobr>2.5</nobr></td>
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.6</nobr></td>
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_37"><nobr>1.0</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+			<td class="temp_38"><nobr>2.5</nobr></td>
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_34"><nobr>-8.1</nobr></td>
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_39"><nobr>4.9</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_43"><nobr>18.2</nobr></td>
+			<td class="temp_45"><nobr>22.9</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+			<td class="temp_38"><nobr>3.0</nobr></td>
+			<td class="temp_36"><nobr>-2.1</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_37"><nobr>-0.7</nobr></td>
+			<td class="temp_39"><nobr>5.6</nobr></td>
+			<td class="temp_42"><nobr>14.4</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_36"><nobr>-2.6</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.3</nobr></td>
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_38"><nobr>1.6</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_43"><nobr>18.7</nobr></td>
+			<td class="temp_45"><nobr>23.2</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_41"><nobr>10.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_36"><nobr>-2.7</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.4</nobr></td>
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_38"><nobr>2.4</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_35"><nobr>-6.4</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_37"><nobr>0.4</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_44"><nobr>21.8</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_43"><nobr>18.6</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_42"><nobr>13.9</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_34"><nobr>-7.6</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_46"><nobr>27.7</nobr></td>
+			<td class="temp_46"><nobr>26.1</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_41"><nobr>11.3</nobr></td>
+			<td class="temp_38"><nobr>3.0</nobr></td>
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_38"><nobr>3.2</nobr></td>
+			<td class="temp_40"><nobr>10.3</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.5</nobr></td>
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_39"><nobr>6.1</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_37"><nobr>1.1</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_38"><nobr>4.3</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_46"><nobr>25.8</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_38"><nobr>1.7</nobr></td>
+			<td class="temp_36"><nobr>-3.7</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.8</nobr></td>
+			<td class="temp_36"><nobr>-3.8</nobr></td>
+			<td class="temp_38"><nobr>3.2</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.8</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_38"><nobr>3.6</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_43"><nobr>18.2</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_38"><nobr>2.3</nobr></td>
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.7</nobr></td>
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_38"><nobr>3.1</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_45"><nobr>24.0</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_42"><nobr>13.9</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_38"><nobr>3.2</nobr></td>
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_45"><nobr>22.9</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_39"><nobr>5.6</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_38"><nobr>3.5</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.9</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_39"><nobr>5.3</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_35"><nobr>-5.3</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_43"><nobr>17.7</nobr></td>
+			<td class="temp_45"><nobr>23.7</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_35"><nobr>-4.6</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-7.3</nobr></td>
+			<td class="temp_37"><nobr>-0.2</nobr></td>
+			<td class="temp_39"><nobr>6.7</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_38"><nobr>4.3</nobr></td>
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.7</nobr></td>
+			<td class="temp_37"><nobr>-0.1</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_42"><nobr>16.0</nobr></td>
+			<td class="temp_44"><nobr>21.9</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_46"><nobr>27.8</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_42"><nobr>15.6</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_34"><nobr>-7.6</nobr></td>
+			<td class="temp_37"><nobr>-0.1</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_42"><nobr>16.0</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_38"><nobr>2.2</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.8</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_39"><nobr>5.8</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_40"><nobr>9.2</nobr></td>
+			<td class="temp_38"><nobr>3.0</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.6</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_38"><nobr>3.6</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_44"><nobr>22.2</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_40"><nobr>9.0</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_45"><nobr>23.2</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_39"><nobr>5.9</nobr></td>
+			<td class="temp_36"><nobr>-2.6</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.2</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_39"><nobr>6.7</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_39"><nobr>5.6</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_46"><nobr>27.5</nobr></td>
+			<td class="temp_46"><nobr>26.1</nobr></td>
+			<td class="temp_44"><nobr>21.8</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_39"><nobr>7.2</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_39"><nobr>5.9</nobr></td>
+			<td class="temp_42"><nobr>14.8</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_44"><nobr>21.9</nobr></td>
+			<td class="temp_42"><nobr>14.2</nobr></td>
+			<td class="temp_39"><nobr>4.9</nobr></td>
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.8</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_39"><nobr>7.1</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>27.4</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_39"><nobr>6.1</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+			<td class="temp_39"><nobr>4.7</nobr></td>
+			<td class="temp_36"><nobr>-3.2</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_36"><nobr>-3.2</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_37"><nobr>-0.7</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.1</nobr></td>
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_38"><nobr>2.3</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_44"><nobr>22.2</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_37"><nobr>-1.1</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.7</nobr></td>
+			<td class="temp_37"><nobr>0.4</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+			<td class="temp_38"><nobr>4.3</nobr></td>
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_38"><nobr>1.7</nobr></td>
+			<td class="temp_40"><nobr>7.8</nobr></td>
+			<td class="temp_42"><nobr>15.1</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>22.1</nobr></td>
+			<td class="temp_42"><nobr>15.1</nobr></td>
+			<td class="temp_38"><nobr>3.2</nobr></td>
+			<td class="temp_35"><nobr>-6.7</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-7.3</nobr></td>
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_38"><nobr>1.9</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>27.0</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_37"><nobr>-0.7</nobr></td>
+			<td class="temp_38"><nobr>3.6</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_44"><nobr>21.4</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_37"><nobr>-1.3</nobr></td>
+			<td class="temp_39"><nobr>5.2</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_38"><nobr>2.6</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.3</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_39"><nobr>6.6</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>22.5</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.1</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_39"><nobr>5.0</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.4</nobr></td>
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_40"><nobr>7.6</nobr></td>
+			<td class="temp_42"><nobr>14.4</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_46"><nobr>27.3</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.1</nobr></td>
+			<td class="temp_37"><nobr>-0.7</nobr></td>
+			<td class="temp_39"><nobr>6.9</nobr></td>
+			<td class="temp_42"><nobr>13.9</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_46"><nobr>27.7</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_38"><nobr>4.3</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.2</nobr></td>
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_39"><nobr>5.5</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>27.5</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_41"><nobr>13.2</nobr></td>
+			<td class="temp_38"><nobr>3.8</nobr></td>
+			<td class="temp_35"><nobr>-6.1</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.9</nobr></td>
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_38"><nobr>4.2</nobr></td>
+			<td class="temp_43"><nobr>16.8</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_46"><nobr>26.1</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_39"><nobr>7.0</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_43"><nobr>19.1</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_46"><nobr>26.8</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_39"><nobr>5.8</nobr></td>
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.4</nobr></td>
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_38"><nobr>2.3</nobr></td>
+			<td class="temp_42"><nobr>15.1</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_45"><nobr>24.0</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+			<td class="temp_37"><nobr>0.9</nobr></td>
+			<td class="temp_35"><nobr>-6.0</nobr></td>
+			<td class="temp_41"><nobr>10.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_37"><nobr>-0.7</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_42"><nobr>15.9</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.6</nobr></td>
+			<td class="temp_37"><nobr>0.6</nobr></td>
+			<td class="temp_39"><nobr>5.2</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_39"><nobr>4.7</nobr></td>
+			<td class="temp_36"><nobr>-4.0</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_39"><nobr>6.5</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_45"><nobr>23.3</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_38"><nobr>3.0</nobr></td>
+			<td class="temp_36"><nobr>-2.1</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.8</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>25.8</nobr></td>
+			<td class="temp_43"><nobr>18.3</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_37"><nobr>1.0</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.7</nobr></td>
+			<td class="temp_36"><nobr>-4.3</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_42"><nobr>14.2</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_35"><nobr>-5.3</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.9</nobr></td>
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_39"><nobr>7.0</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_38"><nobr>4.2</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_38"><nobr>3.6</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_44"><nobr>22.1</nobr></td>
+			<td class="temp_45"><nobr>23.4</nobr></td>
+			<td class="temp_45"><nobr>24.3</nobr></td>
+			<td class="temp_43"><nobr>19.4</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_35"><nobr>-5.7</nobr></td>
+			<td class="temp_41"><nobr>11.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_37"><nobr>-1.1</nobr></td>
+			<td class="temp_38"><nobr>1.9</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>11.3</nobr></td>
+			<td class="temp_39"><nobr>4.5</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.8</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_38"><nobr>2.5</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_43"><nobr>18.1</nobr></td>
+			<td class="temp_44"><nobr>22.1</nobr></td>
+			<td class="temp_46"><nobr>25.8</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+			<td class="temp_37"><nobr>1.2</nobr></td>
+			<td class="temp_35"><nobr>-5.7</nobr></td>
+			<td class="temp_41"><nobr>10.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.3</nobr></td>
+			<td class="temp_35"><nobr>-5.9</nobr></td>
+			<td class="temp_38"><nobr>1.7</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_45"><nobr>23.0</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_43"><nobr>17.7</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_36"><nobr>-2.1</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.0</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_38"><nobr>3.8</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_41"><nobr>11.3</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_37"><nobr>0.6</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.3</nobr></td>
+			<td class="temp_37"><nobr>0.2</nobr></td>
+			<td class="temp_40"><nobr>7.6</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_44"><nobr>20.9</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_38"><nobr>2.5</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.7</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_39"><nobr>5.6</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_43"><nobr>19.1</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_37"><nobr>1.3</nobr></td>
+			<td class="temp_40"><nobr>7.7</nobr></td>
+			<td class="temp_42"><nobr>15.0</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_46"><nobr>27.6</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_43"><nobr>19.1</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_44"><nobr>21.6</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+			<td class="temp_38"><nobr>3.5</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_41"><nobr>12.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_37"><nobr>-1.1</nobr></td>
+			<td class="temp_39"><nobr>7.1</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_36"><nobr>-2.6</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_35"><nobr>-5.2</nobr></td>
+			<td class="temp_38"><nobr>4.2</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_41"><nobr>11.8</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_41"><nobr>11.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.7</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_43"><nobr>18.7</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_41"><nobr>11.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.8</nobr></td>
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_44"><nobr>22.1</nobr></td>
+			<td class="temp_45"><nobr>23.7</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_43"><nobr>18.3</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_35"><nobr>-6.0</nobr></td>
+			<td class="temp_41"><nobr>11.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.6</nobr></td>
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_42"><nobr>14.2</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.4</nobr></td>
+			<td class="temp_35"><nobr>-5.1</nobr></td>
+			<td class="temp_38"><nobr>2.1</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_45"><nobr>23.3</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+			<td class="temp_38"><nobr>2.8</nobr></td>
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_41"><nobr>10.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.6</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_45"><nobr>22.8</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_38"><nobr>3.0</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_38"><nobr>1.7</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_36"><nobr>-3.8</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_39"><nobr>5.1</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_43"><nobr>18.2</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.0</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_39"><nobr>6.5</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_43"><nobr>18.8</nobr></td>
+			<td class="temp_44"><nobr>22.3</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_45"><nobr>23.4</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_41"><nobr>11.0</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_41"><nobr>11.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_43"><nobr>19.1</nobr></td>
+			<td class="temp_45"><nobr>24.0</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_41"><nobr>13.2</nobr></td>
+			<td class="temp_39"><nobr>5.5</nobr></td>
+			<td class="temp_36"><nobr>-2.7</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.7</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+			<td class="temp_43"><nobr>18.9</nobr></td>
+			<td class="temp_44"><nobr>22.4</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_45"><nobr>23.0</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+			<td class="temp_38"><nobr>2.0</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_41"><nobr>10.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_34"><nobr>-7.6</nobr></td>
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_45"><nobr>22.9</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_44"><nobr>19.7</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.5</nobr></td>
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_43"><nobr>18.5</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_46"><nobr>25.8</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_43"><nobr>19.2</nobr></td>
+			<td class="temp_41"><nobr>12.0</nobr></td>
+			<td class="temp_39"><nobr>5.0</nobr></td>
+			<td class="temp_36"><nobr>-2.7</nobr></td>
+			<td class="temp_41"><nobr>11.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_41"><nobr>10.5</nobr></td>
+			<td class="temp_43"><nobr>18.4</nobr></td>
+			<td class="temp_45"><nobr>22.5</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_43"><nobr>18.3</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_38"><nobr>2.5</nobr></td>
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_41"><nobr>11.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_38"><nobr>4.2</nobr></td>
+			<td class="temp_41"><nobr>10.5</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_45"><nobr>23.7</nobr></td>
+			<td class="temp_43"><nobr>18.2</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+			<td class="temp_39"><nobr>6.0</nobr></td>
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_41"><nobr>11.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.8</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_39"><nobr>7.2</nobr></td>
+			<td class="temp_42"><nobr>16.0</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>27.8</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_41"><nobr>11.3</nobr></td>
+			<td class="temp_38"><nobr>2.3</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.3</nobr></td>
+			<td class="temp_37"><nobr>0.4</nobr></td>
+			<td class="temp_39"><nobr>7.0</nobr></td>
+			<td class="temp_42"><nobr>15.6</nobr></td>
+			<td class="temp_44"><nobr>21.6</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_46"><nobr>25.8</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_42"><nobr>14.8</nobr></td>
+			<td class="temp_39"><nobr>5.1</nobr></td>
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_36"><nobr>-2.1</nobr></td>
+			<td class="temp_39"><nobr>6.8</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>27.3</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_44"><nobr>21.6</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_41"><nobr>11.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.7</nobr></td>
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_42"><nobr>14.8</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_43"><nobr>18.6</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_38"><nobr>3.8</nobr></td>
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_41"><nobr>11.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.7</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_39"><nobr>6.9</nobr></td>
+			<td class="temp_42"><nobr>15.0</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_45"><nobr>25.3</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_45"><nobr>24.5</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_41"><nobr>11.4</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_41"><nobr>12.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_45"><nobr>23.3</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_38"><nobr>3.9</nobr></td>
+			<td class="temp_37"><nobr>-0.3</nobr></td>
+			<td class="temp_41"><nobr>12.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_42"><nobr>15.0</nobr></td>
+			<td class="temp_44"><nobr>20.1</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>24.4</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_39"><nobr>6.9</nobr></td>
+			<td class="temp_37"><nobr>-0.2</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_38"><nobr>1.6</nobr></td>
+			<td class="temp_40"><nobr>8.4</nobr></td>
+			<td class="temp_42"><nobr>16.1</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_43"><nobr>19.3</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_37"><nobr>-0.2</nobr></td>
+			<td class="temp_41"><nobr>13.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.9</nobr></td>
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_40"><nobr>7.6</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_45"><nobr>24.8</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_42"><nobr>15.3</nobr></td>
+			<td class="temp_39"><nobr>6.4</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_37"><nobr>-0.1</nobr></td>
+			<td class="temp_38"><nobr>4.4</nobr></td>
+			<td class="temp_42"><nobr>13.9</nobr></td>
+			<td class="temp_44"><nobr>19.9</nobr></td>
+			<td class="temp_45"><nobr>24.1</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_39"><nobr>4.6</nobr></td>
+			<td class="temp_36"><nobr>-1.8</nobr></td>
+			<td class="temp_41"><nobr>12.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-1.1</nobr></td>
+			<td class="temp_38"><nobr>1.8</nobr></td>
+			<td class="temp_39"><nobr>6.7</nobr></td>
+			<td class="temp_42"><nobr>15.5</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_45"><nobr>23.5</nobr></td>
+			<td class="temp_46"><nobr>26.8</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_41"><nobr>12.2</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_37"><nobr>-0.3</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.7</nobr></td>
+			<td class="temp_38"><nobr>1.6</nobr></td>
+			<td class="temp_40"><nobr>8.1</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_44"><nobr>21.5</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_45"><nobr>25.2</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_42"><nobr>13.9</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_37"><nobr>0.8</nobr></td>
+			<td class="temp_39"><nobr>5.6</nobr></td>
+			<td class="temp_43"><nobr>17.3</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_46"><nobr>26.8</nobr></td>
+			<td class="temp_46"><nobr>27.7</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_39"><nobr>6.4</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-0.7</nobr></td>
+			<td class="temp_38"><nobr>2.1</nobr></td>
+			<td class="temp_40"><nobr>7.7</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_45"><nobr>24.2</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_43"><nobr>19.0</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_40"><nobr>7.7</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+			<td class="temp_44"><nobr>21.6</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>25.5</nobr></td>
+			<td class="temp_45"><nobr>23.9</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_37"><nobr>0.9</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.7</nobr></td>
+			<td class="temp_37"><nobr>1.3</nobr></td>
+			<td class="temp_40"><nobr>8.7</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_44"><nobr>20.0</nobr></td>
+			<td class="temp_45"><nobr>24.6</nobr></td>
+			<td class="temp_46"><nobr>28.2</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_43"><nobr>18.6</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_39"><nobr>5.4</nobr></td>
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.9</nobr></td>
+			<td class="temp_38"><nobr>2.4</nobr></td>
+			<td class="temp_40"><nobr>7.6</nobr></td>
+			<td class="temp_42"><nobr>15.0</nobr></td>
+			<td class="temp_44"><nobr>19.6</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_44"><nobr>22.2</nobr></td>
+			<td class="temp_42"><nobr>14.8</nobr></td>
+			<td class="temp_38"><nobr>4.0</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.6</nobr></td>
+			<td class="temp_38"><nobr>2.2</nobr></td>
+			<td class="temp_39"><nobr>4.8</nobr></td>
+			<td class="temp_42"><nobr>14.4</nobr></td>
+			<td class="temp_44"><nobr>19.5</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>28.1</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_44"><nobr>20.8</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_39"><nobr>5.9</nobr></td>
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-6.4</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_40"><nobr>8.1</nobr></td>
+			<td class="temp_42"><nobr>14.5</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_47"><nobr>29.5</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>21.9</nobr></td>
+			<td class="temp_41"><nobr>12.7</nobr></td>
+			<td class="temp_38"><nobr>3.0</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-5.4</nobr></td>
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_39"><nobr>7.3</nobr></td>
+			<td class="temp_42"><nobr>14.4</nobr></td>
+			<td class="temp_45"><nobr>23.1</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_46"><nobr>27.3</nobr></td>
+			<td class="temp_46"><nobr>25.8</nobr></td>
+			<td class="temp_44"><nobr>21.2</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+			<td class="temp_39"><nobr>5.3</nobr></td>
+			<td class="temp_36"><nobr>-2.4</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_40"><nobr>9.8</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+			<td class="temp_44"><nobr>21.9</nobr></td>
+			<td class="temp_45"><nobr>23.6</nobr></td>
+			<td class="temp_46"><nobr>27.5</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_41"><nobr>10.7</nobr></td>
+			<td class="temp_38"><nobr>3.4</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_41"><nobr>13.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.1</nobr></td>
+			<td class="temp_37"><nobr>0.9</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_42"><nobr>15.3</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_46"><nobr>26.1</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_41"><nobr>13.2</nobr></td>
+			<td class="temp_38"><nobr>3.5</nobr></td>
+			<td class="temp_37"><nobr>0.3</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_38"><nobr>2.9</nobr></td>
+			<td class="temp_40"><nobr>7.8</nobr></td>
+			<td class="temp_42"><nobr>16.3</nobr></td>
+			<td class="temp_44"><nobr>20.5</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_39"><nobr>6.5</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.8</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_42"><nobr>16.4</nobr></td>
+			<td class="temp_44"><nobr>19.8</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>27.9</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_44"><nobr>22.1</nobr></td>
+			<td class="temp_42"><nobr>14.9</nobr></td>
+			<td class="temp_40"><nobr>7.5</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_41"><nobr>13.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_40"><nobr>8.0</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_44"><nobr>21.8</nobr></td>
+			<td class="temp_42"><nobr>16.1</nobr></td>
+			<td class="temp_39"><nobr>6.8</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_38"><nobr>3.7</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_45"><nobr>22.6</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_44"><nobr>22.4</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_39"><nobr>5.6</nobr></td>
+			<td class="temp_37"><nobr>0.5</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_37"><nobr>0.6</nobr></td>
+			<td class="temp_40"><nobr>9.1</nobr></td>
+			<td class="temp_42"><nobr>15.9</nobr></td>
+			<td class="temp_44"><nobr>20.3</nobr></td>
+			<td class="temp_45"><nobr>23.4</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_46"><nobr>26.1</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.0</nobr></td>
+			<td class="temp_37"><nobr>1.0</nobr></td>
+			<td class="temp_39"><nobr>7.0</nobr></td>
+			<td class="temp_42"><nobr>15.9</nobr></td>
+			<td class="temp_45"><nobr>22.9</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_46"><nobr>27.0</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_42"><nobr>15.3</nobr></td>
+			<td class="temp_38"><nobr>2.2</nobr></td>
+			<td class="temp_36"><nobr>-2.3</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.8</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_41"><nobr>11.2</nobr></td>
+			<td class="temp_44"><nobr>21.7</nobr></td>
+			<td class="temp_45"><nobr>24.7</nobr></td>
+			<td class="temp_47"><nobr>28.6</nobr></td>
+			<td class="temp_46"><nobr>26.5</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_39"><nobr>5.8</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.5</nobr></td>
+			<td class="temp_37"><nobr>-0.1</nobr></td>
+			<td class="temp_40"><nobr>8.1</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_44"><nobr>21.3</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_46"><nobr>27.5</nobr></td>
+			<td class="temp_46"><nobr>26.4</nobr></td>
+			<td class="temp_44"><nobr>20.2</nobr></td>
+			<td class="temp_42"><nobr>14.2</nobr></td>
+			<td class="temp_39"><nobr>7.1</nobr></td>
+			<td class="temp_37"><nobr>-1.0</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.6</nobr></td>
+			<td class="temp_37"><nobr>-1.3</nobr></td>
+			<td class="temp_39"><nobr>5.9</nobr></td>
+			<td class="temp_42"><nobr>16.2</nobr></td>
+			<td class="temp_45"><nobr>22.8</nobr></td>
+			<td class="temp_45"><nobr>25.0</nobr></td>
+			<td class="temp_46"><nobr>27.4</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_42"><nobr>14.6</nobr></td>
+			<td class="temp_38"><nobr>4.3</nobr></td>
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_41"><nobr>12.9</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_35"><nobr>-4.6</nobr></td>
+			<td class="temp_37"><nobr>-1.4</nobr></td>
+			<td class="temp_39"><nobr>6.2</nobr></td>
+			<td class="temp_41"><nobr>12.6</nobr></td>
+			<td class="temp_44"><nobr>21.9</nobr></td>
+			<td class="temp_45"><nobr>23.8</nobr></td>
+			<td class="temp_46"><nobr>27.4</nobr></td>
+			<td class="temp_46"><nobr>27.3</nobr></td>
+			<td class="temp_44"><nobr>20.7</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+			<td class="temp_39"><nobr>6.3</nobr></td>
+			<td class="temp_37"><nobr>0.1</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_37"><nobr>-0.4</nobr></td>
+			<td class="temp_40"><nobr>10.1</nobr></td>
+			<td class="temp_43"><nobr>17.1</nobr></td>
+			<td class="temp_44"><nobr>22.2</nobr></td>
+			<td class="temp_45"><nobr>25.1</nobr></td>
+			<td class="temp_46"><nobr>28.1</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_42"><nobr>14.0</nobr></td>
+			<td class="temp_39"><nobr>6.4</nobr></td>
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_42"><nobr>14.1</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-0.5</nobr></td>
+			<td class="temp_37"><nobr>1.3</nobr></td>
+			<td class="temp_40"><nobr>8.8</nobr></td>
+			<td class="temp_42"><nobr>15.5</nobr></td>
+			<td class="temp_44"><nobr>21.5</nobr></td>
+			<td class="temp_45"><nobr>24.9</nobr></td>
+			<td class="temp_46"><nobr>26.8</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_38"><nobr>3.6</nobr></td>
+			<td class="temp_37"><nobr>0.2</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-4.2</nobr></td>
+			<td class="temp_38"><nobr>1.5</nobr></td>
+			<td class="temp_40"><nobr>9.0</nobr></td>
+			<td class="temp_43"><nobr>17.0</nobr></td>
+			<td class="temp_44"><nobr>21.5</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_46"><nobr>27.4</nobr></td>
+			<td class="temp_46"><nobr>27.5</nobr></td>
+			<td class="temp_44"><nobr>22.2</nobr></td>
+			<td class="temp_41"><nobr>13.4</nobr></td>
+			<td class="temp_38"><nobr>4.3</nobr></td>
+			<td class="temp_37"><nobr>0.3</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_38"><nobr>2.3</nobr></td>
+			<td class="temp_40"><nobr>9.2</nobr></td>
+			<td class="temp_43"><nobr>17.5</nobr></td>
+			<td class="temp_45"><nobr>23.3</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>27.9</nobr></td>
+			<td class="temp_46"><nobr>26.2</nobr></td>
+			<td class="temp_45"><nobr>23.0</nobr></td>
+			<td class="temp_41"><nobr>12.8</nobr></td>
+			<td class="temp_38"><nobr>4.1</nobr></td>
+			<td class="temp_37"><nobr>-0.2</nobr></td>
+			<td class="temp_42"><nobr>14.2</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.2</nobr></td>
+			<td class="temp_37"><nobr>-0.9</nobr></td>
+			<td class="temp_40"><nobr>8.3</nobr></td>
+			<td class="temp_42"><nobr>15.7</nobr></td>
+			<td class="temp_44"><nobr>22.3</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_46"><nobr>28.0</nobr></td>
+			<td class="temp_46"><nobr>27.8</nobr></td>
+			<td class="temp_44"><nobr>21.4</nobr></td>
+			<td class="temp_41"><nobr>13.0</nobr></td>
+			<td class="temp_39"><nobr>5.7</nobr></td>
+			<td class="temp_36"><nobr>-2.5</nobr></td>
+			<td class="temp_42"><nobr>13.6</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.7</nobr></td>
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_40"><nobr>9.7</nobr></td>
+			<td class="temp_42"><nobr>14.7</nobr></td>
+			<td class="temp_44"><nobr>22.3</nobr></td>
+			<td class="temp_46"><nobr>26.3</nobr></td>
+			<td class="temp_46"><nobr>28.0</nobr></td>
+			<td class="temp_46"><nobr>25.9</nobr></td>
+			<td class="temp_45"><nobr>23.1</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_39"><nobr>5.8</nobr></td>
+			<td class="temp_37"><nobr>-1.2</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-1.5</nobr></td>
+			<td class="temp_37"><nobr>1.0</nobr></td>
+			<td class="temp_40"><nobr>9.1</nobr></td>
+			<td class="temp_42"><nobr>15.7</nobr></td>
+			<td class="temp_44"><nobr>21.1</nobr></td>
+			<td class="temp_46"><nobr>26.9</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_44"><nobr>21.8</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+			<td class="temp_39"><nobr>6.5</nobr></td>
+			<td class="temp_36"><nobr>-2.2</nobr></td>
+			<td class="temp_42"><nobr>13.8</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-3.4</nobr></td>
+			<td class="temp_38"><nobr>3.1</nobr></td>
+			<td class="temp_40"><nobr>9.5</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_44"><nobr>20.4</nobr></td>
+			<td class="temp_45"><nobr>25.4</nobr></td>
+			<td class="temp_46"><nobr>26.7</nobr></td>
+			<td class="temp_46"><nobr>25.7</nobr></td>
+			<td class="temp_44"><nobr>22.0</nobr></td>
+			<td class="temp_41"><nobr>13.1</nobr></td>
+			<td class="temp_39"><nobr>6.1</nobr></td>
+			<td class="temp_37"><nobr>0.7</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.0</nobr></td>
+			<td class="temp_37"><nobr>-0.6</nobr></td>
+			<td class="temp_40"><nobr>7.7</nobr></td>
+			<td class="temp_42"><nobr>16.3</nobr></td>
+			<td class="temp_44"><nobr>21.0</nobr></td>
+			<td class="temp_46"><nobr>25.6</nobr></td>
+			<td class="temp_46"><nobr>27.4</nobr></td>
+			<td class="temp_46"><nobr>26.0</nobr></td>
+			<td class="temp_45"><nobr>22.7</nobr></td>
+			<td class="temp_41"><nobr>13.3</nobr></td>
+			<td class="temp_39"><nobr>6.9</nobr></td>
+			<td class="temp_36"><nobr>-2.9</nobr></td>
+			<td class="temp_42"><nobr>13.5</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-2.1</nobr></td>
+			<td class="temp_38"><nobr>1.8</nobr></td>
+			<td class="temp_41"><nobr>10.7</nobr></td>
+			<td class="temp_42"><nobr>15.2</nobr></td>
+			<td class="temp_44"><nobr>21.8</nobr></td>
+			<td class="temp_46"><nobr>28.2</nobr></td>
+			<td class="temp_47"><nobr>28.9</nobr></td>
+			<td class="temp_46"><nobr>27.3</nobr></td>
+			<td class="temp_45"><nobr>22.8</nobr></td>
+			<td class="temp_42"><nobr>15.8</nobr></td>
+			<td class="temp_39"><nobr>4.9</nobr></td>
+			<td class="temp_36"><nobr>-3.3</nobr></td>
+			<td class="temp_42"><nobr>14.3</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_36"><nobr>-1.9</nobr></td>
+			<td class="temp_37"><nobr>0.9</nobr></td>
+			<td class="temp_40"><nobr>9.1</nobr></td>
+			<td class="temp_43"><nobr>16.7</nobr></td>
+			<td class="temp_44"><nobr>21.9</nobr></td>
+			<td class="temp_46"><nobr>27.2</nobr></td>
+			<td class="temp_46"><nobr>27.8</nobr></td>
+			<td class="temp_46"><nobr>27.1</nobr></td>
+			<td class="temp_44"><nobr>21.8</nobr></td>
+			<td class="temp_42"><nobr>13.7</nobr></td>
+			<td class="temp_40"><nobr>7.9</nobr></td>
+			<td class="temp_37"><nobr>0.5</nobr></td>
+			<td class="temp_42"><nobr>14.4</nobr></td>
+    	</tr>
+			<tr height="24" bgcolor="#ffffff">
+			<td class="temp_37"><nobr>-0.8</nobr></td>
+			<td class="temp_37"><nobr>0.2</nobr></td>
+			<td class="temp_40"><nobr>10.0</nobr></td>
+			<td class="temp_43"><nobr>16.8</nobr></td>
+			<td class="temp_44"><nobr>20.6</nobr></td>
+			<td class="temp_46"><nobr>26.6</nobr></td>
+			<td class="temp_46"><nobr>28.4</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+			<td class="temp_370"><nobr>999.9</nobr></td>
+    	</tr>
+		</tbody></table>

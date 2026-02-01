@@ -10,7 +10,6 @@ import Legend from './components/Legend';
 import { olympicVenues, simulateDataUpdate, calculateRiskLevel } from './data/venues';
 
 const mapboxAccessToken = import.meta.env.VITE_MAPBOX_TOKEN;
-console.log(mapboxAccessToken);
 function App() {
   const [selectedVenue, setSelectedVenue] = useState(null);
   const [venues, setVenues] = useState(olympicVenues);
