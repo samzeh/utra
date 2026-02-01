@@ -7,7 +7,7 @@ const Header = () => {
             <span className="header-icon">❄️</span>
             Frostline
           </h1>
-          <span className="header-subtitle">Winter Olympics Intelligence Platform</span>
+          <span className="header-subtitle">Climate Data Intelligence Platform</span>
         </div>
         <div className="header-right">
           <div className="status-indicator">
