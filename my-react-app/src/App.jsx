@@ -1,35 +1,104 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect, useCallback } from 'react';
+import Map, { Marker } from 'react-map-gl/mapbox';
+import 'mapbox-gl/dist/mapbox-gl.css';
+import './App.css';
+
+import Header from './components/Header';
+import VenueMarker from './components/VenueMarker';
+import VenuePanel from './components/VenuePanel';
+import Legend from './components/Legend';
+import { olympicVenues, simulateDataUpdate, calculateRiskLevel } from './data/venues';
+
+// IMPORTANT: Replace with your actual Mapbox token
+const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN || 'pk.eyJ1IjoiZXhhbXBsZSIsImEiOiJjbGV4YW1wbGUifQ.example';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [selectedVenue, setSelectedVenue] = useState(null);
+  const [venues, setVenues] = useState(olympicVenues);
+  const [viewState, setViewState] = useState({
+    longitude: 116.3913,
+    latitude: 40.3,
+    zoom: 7.5,
+  });
+
+  // Simulate real-time data updates every 5 seconds
+  // In production, this would be replaced with actual API calls or WebSocket connections
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setVenues((currentVenues) =>
+        currentVenues.map((venue) => {
+          const updated = simulateDataUpdate(venue);
+          return {
+            ...updated,
+            riskLevel: calculateRiskLevel(updated.stabilityScore),
+          };
+        })
+      );
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  // Update selected venue when data changes
+  useEffect(() => {
+    if (selectedVenue) {
+      const updated = venues.find((v) => v.id === selectedVenue.id);
+      if (updated) {
+        setSelectedVenue(updated);
+      }
+    }
+  }, [venues, selectedVenue]);
+
+  const handleMarkerClick = useCallback((venue) => {
+    setSelectedVenue(venue);
+    setViewState((prev) => ({
+      ...prev,
+      longitude: venue.coordinates[0],
+      latitude: venue.coordinates[1],
+      zoom: 10,
+    }));
+  }, []);
+
+  const handleClosePanel = useCallback(() => {
+    setSelectedVenue(null);
+    setViewState((prev) => ({
+      ...prev,
+      longitude: 116.3913,
+      latitude: 40.3,
+      zoom: 7.5,
+    }));
+  }, []);
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div className="app">
+      <Header />
+      
+      <div className="map-container">
+        <Map
+          {...viewState}
+          onMove={(evt) => setViewState(evt.viewState)}
+          mapStyle="mapbox://styles/mapbox/dark-v11"
+          mapboxAccessToken={MAPBOX_TOKEN}
+          style={{ width: '100%', height: '100%' }}
+          attributionControl={false}
+        >
+          {venues.map((venue) => (
+            <VenueMarker
+              key={venue.id}
+              venue={venue}
+              onClick={handleMarkerClick}
+            />
+          ))}
+        </Map>
+
+        <Legend />
+
+        {selectedVenue && (
+          <VenuePanel venue={selectedVenue} onClose={handleClosePanel} />
+        )}
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    </div>
+  );
 }
 
-export default App
+export default App;
