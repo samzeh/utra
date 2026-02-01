@@ -13,8 +13,10 @@ const VenuePanel = ({ venue, onClose }) => {
   const { data: insights, loading, error, fetch: fetchInsights } = useSidebarInsights();
   
   // Check if this is a climate station (has location and yearRange)
+  // Convert ID to string for safe comparison (Beijing venues have numeric IDs)
+  const venueId = String(venue.id || '');
   const isClimateStation = venue.location && venue.yearRange && 
-    (venue.id?.startsWith('milan') || venue.id?.startsWith('oslo') || venue.id?.startsWith('grenoble') || venue.id?.startsWith('salt-lake-city'));
+    (venueId.startsWith('milan') || venueId.startsWith('oslo') || venueId.startsWith('grenoble') || venueId.startsWith('salt-lake-city'));
 
   const handleGenerateClick = () => {
     try {
@@ -180,6 +182,48 @@ const VenuePanel = ({ venue, onClose }) => {
                   {climateAnalysis.analysis.climateTrends}
                 </div>
               </div>
+
+              {/* Olympics Suitability Section */}
+              {climateAnalysis.analysis.olympicsSuitability && (
+                <div className="olympics-suitability-section" style={{ 
+                  marginTop: '25px', 
+                  padding: '15px', 
+                  background: '#1f2937', 
+                  borderRadius: '8px',
+                  borderLeft: '4px solid #3b82f6'
+                }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '12px' }}>
+                    <span style={{ fontSize: '20px' }}>🏔️</span>
+                    <h3 style={{ color: '#3b82f6', margin: 0, fontSize: '16px' }}>
+                      Future Winter Olympics Hosting Suitability (2025-2050)
+                    </h3>
+                    {climateAnalysis.analysis.olympicsSuitability.likelihood && (
+                      <span
+                        style={{
+                          marginLeft: 'auto',
+                          padding: '4px 12px',
+                          borderRadius: '12px',
+                          backgroundColor: climateAnalysis.analysis.olympicsSuitability.likelihood.includes('Likely') ? '#10b981' : 
+                                         climateAnalysis.analysis.olympicsSuitability.likelihood.includes('Unlikely') ? '#ef4444' : '#f59e0b',
+                          color: '#fff',
+                          fontWeight: 'bold',
+                          fontSize: '12px'
+                        }}
+                      >
+                        {climateAnalysis.analysis.olympicsSuitability.likelihood}
+                      </span>
+                    )}
+                  </div>
+                  <div className="olympics-suitability-text" style={{ 
+                    whiteSpace: 'pre-wrap', 
+                    lineHeight: '1.6',
+                    color: '#d1d5db',
+                    fontSize: '14px'
+                  }}>
+                    {climateAnalysis.analysis.olympicsSuitability.detailedAnalysis}
+                  </div>
+                </div>
+              )}
 
               {/* Injury Risk Section - Separated */}
               <div className="injury-risk-section" style={{ 

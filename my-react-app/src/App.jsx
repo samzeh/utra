@@ -73,28 +73,31 @@ function App() {
     const interval = setInterval(() => {
       setVenues((currentVenues) =>
         currentVenues.map((venue) => {
+          // Convert ID to string for safe comparison (Beijing venues have numeric IDs)
+          const venueId = String(venue.id || '');
+          
           // Check if it's Milan data
-          if (venue.id?.startsWith('milan')) {
+          if (venueId.startsWith('milan')) {
             const updated = simulateMilanDataUpdate(venue);
             return {
               ...updated,
               riskLevel: calculateRiskLevel(updated.stabilityScore),
             };
-          } else if (venue.id?.startsWith('oslo')) {
+          } else if (venueId.startsWith('oslo')) {
             // Oslo data
             const updated = simulateOsloDataUpdate(venue);
             return {
               ...updated,
               riskLevel: calculateOsloRiskLevel(updated.stabilityScore),
             };
-          } else if (venue.id?.startsWith('grenoble')) {
+          } else if (venueId.startsWith('grenoble')) {
             // Grenoble data
             const updated = simulateGrenobleDataUpdate(venue);
             return {
               ...updated,
               riskLevel: calculateGrenobleRiskLevel(updated.stabilityScore),
             };
-          } else if (venue.id?.startsWith('salt-lake-city')) {
+          } else if (venueId.startsWith('salt-lake-city')) {
             // Salt Lake City data
             const updated = simulateSaltLakeCityDataUpdate(venue);
             return {
